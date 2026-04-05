@@ -13,25 +13,32 @@ This repository showcases projects analyzing real-world datasets using Excel, Pi
 Analyzed 6,351 trending YouTube videos to identify key performance drivers influencing content reach and engagement.
 
 **Highlights:**
-- Identified engagement patterns across categories
-- Evaluated video performance using data analysis techniques
-- Proposed strategies to improve reach and audience engagement
+- Analyzed 6,000+ videos to identify engagement patterns
+- Performed data cleaning and visualization using Excel
+- Proposed advanced metrics such as CTR, watch time, and audience retention
+- Delivered recommendations to improve content reach and engagement
 
-🔗 [View Project](youtube-trending-analysis/README.md)
+📊 **Dataset:**  
+[Download Cleaned Dataset](youtube-trending-analysis/data/youtube_cleaned_data.xlsx)
+
+🔗 **Project Details:**  
+[youtube-trending-analysis/README.md](youtube-trending-analysis/README.md)
 
 ---
 
 ### 2. Grammy Website Data Analysis
-🌐 External Repository
+📁 Folder: `grammy-website-data-analysis/`
 
 Analyzed A/B test results and user engagement metrics to evaluate the impact of splitting Grammy.com and RecordingAcademy.com.
 
 **Highlights:**
 - Identified a 23% improvement in engagement performance
 - Evaluated KPIs such as pages per session, time on site, and bounce rate
-- Delivered recommendations to maintain the split-site strategy and improve user engagement
+- Compared pre- and post-split user behavior across audiences
+- Delivered data-driven recommendations to improve engagement
 
-🔗 [View Project](https://github.com/Prabin321/grammy-website-data-analysis)
+🔗 **Project Details:**  
+[grammy-website-data-analysis/README.md](grammy-website-data-analysis/README.md)
 
 ---
 
