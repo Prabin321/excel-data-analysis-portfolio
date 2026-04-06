@@ -42,10 +42,10 @@ Analyzed A/B test results and user engagement metrics to evaluate the impact of 
 [grammy-website-data-analysis/README.md](grammy_data_analysis/README.md)
 
 ---
-### 🔹 Retail Sales & Customer Behavior Analysis (SQL)
+### 3. Retail Sales & Customer Behavior Analysis (SQL)
 - Analyzed 541K+ transactions using SQL  
 - Identified $9.7M revenue and key customer trends  
-👉 [View Project](./sql-user-behavior-analysis)
+👉 [sql_user_behaviour_analysis/README.md](sql_user_behaviour_analysis/README.md)
 ---
 
 ## 🛠️ Tools Used
