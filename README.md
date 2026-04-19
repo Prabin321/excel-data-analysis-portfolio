@@ -48,9 +48,24 @@ Analyzed A/B test results and user engagement metrics to evaluate the impact of 
 👉 [sql_user_behaviour_analysis/README.md](sql_user_behaviour_analysis/README.md)
 ---
 
+### 4. Production CSV/Excel Analytics Pipeline (Python)
+- Modular ingestion, validation, cleaning, analysis, visualization, and insight generation
+- Includes quality checks (missing values, duplicates, outliers), trend/anomaly detection, and optional ML
+- Reliability checks for empty/single-column/invalid-input and large-file limits
+- Includes both CLI and Streamlit app interface for interactive analytics
+👉 [analytics_pipeline/README.md](analytics_pipeline/README.md)
+---
+
 ## 🛠️ Tools Used
 - Microsoft Excel
 - Tableau
+- SQL / SQLite
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Streamlit
 - Data Cleaning
 - Data Visualization
 
