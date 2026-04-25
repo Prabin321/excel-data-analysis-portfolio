@@ -12,7 +12,7 @@ A Google Ads campaign generated traffic and conversions, but the business needed
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- VS Code/Jupyter Notebook
 
 ## Dataset
 The dataset contains 2,600 Google Ads records with fields including:
