@@ -42,18 +42,39 @@ Analyzed A/B test results and user engagement metrics to evaluate the impact of 
 [grammy-website-data-analysis/README.md](grammy_data_analysis/README.md)
 
 ---
+
 ### 3. Retail Sales & Customer Behavior Analysis (SQL)
 - Analyzed 541K+ transactions using SQL  
 - Identified $9.7M revenue and key customer trends  
 👉 [sql_user_behaviour_analysis/README.md](sql_user_behaviour_analysis/README.md)
+
 ---
 
+### 4. Google Ads Campaign Performance Analysis
+
+📁 Folder: `google-ads-campaign-performance-analysis/`
+
+Analyzed 2,600+ Google Ads campaign records using Python to evaluate campaign performance, optimize ad spend, and identify high-performing keywords and devices.
+
+**Highlights:**
+- Performed end-to-end data cleaning and preprocessing using Pandas  
+- Engineered key marketing KPIs including CTR, CPC, conversion rate, and ROI  
+- Identified high-performing keywords driving maximum return on ad spend (~6x ROI)  
+- Analyzed device-level performance to compare desktop, mobile, and tablet conversions  
+- Evaluated cost efficiency through cost-per-conversion and spending patterns  
+- Delivered data-driven recommendations to improve campaign efficiency and scalability  
+
+🔗 **Project Details:**  
+[google-ads-campaign-performance-analysis/README.md](google-ads-campaign-performance-analysis/README.md)
+
+---
 
 ## 🛠️ Tools Used
 - Microsoft Excel
 - Tableau
 - SQL / SQLite
 - Data Visualization
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 
 ---
 
