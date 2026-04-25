@@ -65,7 +65,7 @@ Analyzed 2,600+ Google Ads campaign records using Python to evaluate campaign pe
 - Delivered data-driven recommendations to improve campaign efficiency and scalability  
 
 🔗 **Project Details:**  
-[google_ads_campaign_data_analysis/README.md](google_ads_campaign_data_analysis/README.md)
+[google_ad_campaign_data_analysis/README.md](google_ads_campaign_data_analysis/README.md)
 
 ---
 
